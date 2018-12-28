@@ -1,0 +1,15 @@
+
+#+TITLE: hello-world
+#+AUTHOR: Paul Schorfheide
+#+EMAIL: lovife.cs@gmail.com
+#+LANGUAGE: ZH-CN
+#+OPTIONS: H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+URI: /blog/%y/%m/%d/
+#+DATE: 2018-12-28
+#+TAGS:
+#+DESCRIPTON:
+
+* succeed!
+#+BEGIN_SRC emacs-lisp :tangle yes
+(message "hello world")
+#+END_SRC
